@@ -158,7 +158,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/maps.live.linux-tage.de\/maps\/ZHSG\/EG.json#start_live_ZLAB"
+                 "value":"\/_\/global\/chemnitzer.linux-tage.de\/2021\/media\/workadventure\/maps\/ZHSG\/\nEG.json#start_live_ZLAB"
                 }],
          "type":"tilelayer",
          "visible":true,
